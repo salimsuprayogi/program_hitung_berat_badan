@@ -1,6 +1,6 @@
 # Program Hitung Berat Badan Ideal
 
-    Program ini dibuuat dengan menggunakan bahasa pemrograman Python
+    Program ini dibuat dengan menggunakan bahasa pemrograman Python
 
 # Pengantar
 
