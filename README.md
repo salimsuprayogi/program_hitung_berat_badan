@@ -4,11 +4,14 @@
 
 # Pengantar
 
-    Menghitung berat badan ideal perlu dilakukan sebelum kamu mulai menjalani diet penurunan berat badan. Demi memiliki berat badan ideal, kamu jangan melakukan diet ekstrem karena setiap orang mempunyai berat badan ideal yang berbeda.
+    Menghitung berat badan ideal perlu dilakukan sebelum kamu mulai menjalani diet penurunan berat badan.
+    Demi memiliki berat badan ideal, kamu jangan melakukan diet ekstrem 
+    karena setiap orang mempunyai berat badan ideal yang berbeda.
 
     Sebenarnya bagaimana cara mengetahui berat badan ideal?
 
-    Ada banyak cara untuk menghitung berat badan ideal. Namun yang sering digunakan adalah rumus Body Mass Index (BMI) dan Brocha.
+    Ada banyak cara untuk menghitung berat badan ideal. 
+    Namun yang sering digunakan adalah rumus Body Mass Index (BMI) dan Brocha.
 
 # Persoalan
 
@@ -17,5 +20,5 @@
 
 # Daftar Program
 
-    1. Menghitung Berat Badan Ideal dengan Rumus Body Mass Index (BMI) berdasarkan standar WHO dan Asia-Pacific.
+    1. Menghitung Berat Badan Ideal dengan Rumus Body Mass Index (BMI) berdasarkan standar WHO dan Asia-Pacific
     2. Menghitung Berat Badan Ideal dengan Rumus Broca
