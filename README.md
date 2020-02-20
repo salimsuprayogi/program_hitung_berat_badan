@@ -22,3 +22,10 @@
 
     1. Menghitung Berat Badan Ideal dengan Rumus Body Mass Index (BMI) berdasarkan standar WHO dan Asia-Pacific
     2. Menghitung Berat Badan Ideal dengan Rumus Broca
+    
+# Persiapan
+
+    0. Open Mindset " I Can "
+    1. Tetap tenang dan santai 
+    2. Siapkan rumus - rumus untuk menghitung berat badan
+    3. Visual Studio Code [ kode editor ]
